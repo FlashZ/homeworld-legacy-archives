@@ -2,7 +2,7 @@
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/FlashZ/homeworld-legacy-archives)](https://github.com/FlashZ/homeworld-legacy-archives/commits/main)
 [![GitHub issues](https://img.shields.io/github/issues/FlashZ/homeworld-legacy-archives)](https://github.com/FlashZ/homeworld-legacy-archives/issues)
-[![License](https://img.shields.io/badge/license-CC--BY--NC--SA%204.0-blue)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![License: CC0 1.0](https://img.shields.io/badge/license-CC0%201.0-lightgrey)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 **Welcome, Fleet Command!** This repository is dedicated to preserving the rich history, technical knowledge, and modding culture of the classic Homeworld series:
 
@@ -65,7 +65,8 @@ Alternatively, if you have information but are not comfortable with Git, please 
 
 ## 📜 License
 
-The textual content of The Homeworld Legacy Archives is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+The textual content of The Homeworld Legacy Archives is dedicated to the public domain under the [Creative Commons CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
+
 
 This means you are free to:
 *   **Share** — copy and redistribute the material in any medium or format
