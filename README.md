@@ -2,7 +2,7 @@
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/FlashZ/homeworld-legacy-archives)](https://github.com/FlashZ/homeworld-legacy-archives/commits/main)
 [![GitHub issues](https://img.shields.io/github/issues/FlashZ/homeworld-legacy-archives)](https://github.com/FlashZ/homeworld-legacy-archives/issues)
-[![License](https://img.shields.io/badge/license-CC--BY--NC--SA%204.0-blue)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![License: CC0 1.0](https://img.shields.io/badge/license-CC0%201.0-lightgrey)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 **Welcome, Fleet Command!** This repository is dedicated to preserving the rich history, technical knowledge, and modding culture of the classic Homeworld series:
 
@@ -25,12 +25,12 @@ Our mission is to create the most comprehensive and accessible resource for play
 
 The archive is structured into several key sections, each as a separate Markdown file:
 
-1.  📄 **[The Homeworld Legacy Archives Homepage](docs/00_The_Homeworld_Legacy_Archives_Homepage.md):** The main landing page with an overview of the archive structure.
+1.  📄 **[The Homeworld Legacy Archives Homepage](docs/00_The_Homeworld_Legacy_Archives_Homepage.md):**
 2.  🚀 **[Homeworld (1999) Guide](docs/01_Homeworld_1999_Guide.md):** Comprehensive guide for the original Homeworld.
 3.  👾 **[Homeworld:Cataclysm Guide](docs/02_Homeworld_Cataclysm_Guide.md):** Guide for Homeworld: Cataclysm / Emergence.
 4.  ✨ **[Homeworld:Remastered Collection Guide](docs/03_Homeworld_Remastered_Collection_Guide.md):** Guide for the Homeworld Remastered Collection.
 5.  🌌 **[Homeworld 2 Classic Guide](docs/04_Homeworld_2_Classic_Guide.md):** Guide for the original Homeworld 2.
-6.  🫂 **[General Community Resources](docs/05_General_Community_Resources.md):** Links to active communities, forums, and essential fan sites.
+6.  🤝 **[General Community Resources](docs/05_General_Community_Resources.md):** Links to active communities, forums, and essential fan sites.
 7.  📝 **[Archive Contribution Wishlist](docs/06_Archive_Contribution_Wishlist.md):** Specific information, files, and research areas we're looking for. Help us fill the gaps!
 8.  🛠️ **[Homeworld Technical Details](docs/07_Homeworld_Technical_Details.md):** Deep dive into file formats, engine specifics, and other technical data.
 9.  🔧 **[Modding Tools Repository](docs/08_Modding_Tools_Repository.md):** A collection of essential modding tools, utilities, and links to tutorials.
@@ -65,7 +65,8 @@ Alternatively, if you have information but are not comfortable with Git, please 
 
 ## 📜 License
 
-The textual content of The Homeworld Legacy Archives is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+The textual content of The Homeworld Legacy Archives is dedicated to the public domain under the [Creative Commons CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
+
 
 This means you are free to:
 *   **Share** — copy and redistribute the material in any medium or format
