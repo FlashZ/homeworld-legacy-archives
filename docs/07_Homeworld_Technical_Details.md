@@ -38,7 +38,3 @@ This section of The Homeworld Legacy Archives explores file formats, engine spec
 *   **Networking (Multiplayer):**
     *   Uses a deterministic lockstep model for multiplayer. All clients simulate the game identically based on shared commands.
     *   Susceptible to desyncs if game states diverge due to floating-point precision differences, bugs, or mismatched data.
-*   **Research Areas:**
-    *   Detailed breakdown of specific file format structures (e.g., HOD chunk definitions).
-    *   Reverse-engineered formulas for damage, accuracy, resource collection.
-    *   Deep dive into AI decision-making processes.

@@ -5,16 +5,13 @@ This section of The Homeworld Legacy Archives covers Homeworld: Cataclysm (2000)
 ### A. Getting the Game & Initial Setup
 
 *   **Original Retail Release (Cataclysm):** CD-ROM.
-*   **Digital Download (Community Archive - from initial data):**
-    *   **Source:** Old-Games.ru link for user "Eraser's" files (game, 1.01 patch, nocd, cdkey).
-    *   **Notes:** Use with caution.
 *   **Official Patches:**
     *   **Version 1.01 (Latest):**
-        *   **Download:** [Sierra Help Pages](http://sierrahelp.com/Patches-Updates/Patches-Updates-Games/HomeworldSeriesUpdates.html), [Patches-Scrolls](https://www.patches-scrolls.com/homeworld_cataclysm.php).
-        *   **Changelog Snippets (v1.01):** Addressed multiplayer desyncs, unit balancing (e.g., Acolyte, Sentinel), crash fixes, UI improvements. *Research needed for full official changelog.*
+        *   **File [Homeworld: Cataclysm v1.01 Patch](files/hwc_101_patch.exe)**
+        *   **Additional Mirrors** [Sierra Help Pages](http://sierrahelp.com/Patches-Updates/Patches-Updates-Games/HomeworldSeriesUpdates.html), [Patches-Scrolls](https://www.patches-scrolls.com/homeworld_cataclysm.php).
+        *   **Changelog Snippets (v1.01):** Addressed multiplayer desyncs, unit balancing (e.g., Acolyte, Sentinel), crash fixes, UI improvements.
 *   **NoCD Solutions:**
-    *   GameBurnWorld, MegaGames historically. The GOG version is DRM-free.
-    *   File from initial data (`hwc_nocd.zip` for v1.01): Likely a specific NoCD.
+    *   **File [Homeworld: Cataclysm v1.05 NoCD](files/hwc_nocd.zip):** *Note: This **WILL** flag in Antivirus as **Crack***
 *   **GOG.com Release (Homeworld: Emergence):**
     *   **Link:** [GOG.com Homeworld: Emergence](https://www.gog.com/game/homeworld_emergence)
     *   **Highly Recommended:** Patched, DRM-free, configured for modern OS. Identical content to original Cataclysm.
@@ -25,6 +22,7 @@ This section of The Homeworld Legacy Archives covers Homeworld: Cataclysm (2000)
 *   **Original/Old Versions:**
     *   **Compatibility Mode:** Windows NT 4.0 SP5 or XP SP2/3.
     *   **Hardware Acceleration Fix:** The same [PCGamingWiki Fix for HW1](https://community.pcgamingwiki.com/files/file/5-homeworld-hardware-acceleration-fix/) also supports `cataclysm.exe`.
+    *   **DirectX Renderer** Also the same [Updated DirectX renderer files](https://github.com/ncblakely/hw_rgl) also supports Cataclysm.
     *   **dgVoodoo2:** Can be used similarly to Homeworld 1 for improved compatibility and graphics.
     *   **Command Line Options:** Similar to HW1. `/heap`, `/DisableAVI`, `/safeGL`, `/window` are common.
     *   **Registry Edit (Custom Resolutions):**
@@ -35,10 +33,9 @@ This section of The Homeworld Legacy Archives covers Homeworld: Cataclysm (2000)
 
 *   Cataclysm had a smaller but dedicated modding scene compared to HW1.
 *   **Map Packs (from initial data):**
-    *   **Volans SF's Cataclysm Maps:** [Google Drive Link](https://drive.google.com/drive/folders/1ohrVDhL9E0jwx3p3pZuHYw2VXbujWNqq?usp=sharing) (works with Emergence).
+    *   **HWC Map Pack:** [My Map Pack](https://github.com/FlashZ/Homeworld_Map_Collection).
 *   **Notable Mods (Research Area - see [ModDB Cataclysm Mods](https://www.moddb.com/games/homeworld-cataclysm/mods)):**
-    *   Focus was often on new units, minor faction additions, or balance tweaks.
-    *   *Example (Hypothetical - needs finding actual mods): "Beast Reborn Mod" (enhancing Beast abilities), "Somtaaw Expanded Arsenal."*
+    * *Needs filling out*
 *   **Modding Tools:** Many HW1 tools were adaptable. See the [Modding Tools & Tutorials Repository](08_Modding_Tools_Repository.md). HomeworldAccess.net had a "Map-Makers Archive" including HWC primers.
 
 ### D. Multiplayer & Strategy

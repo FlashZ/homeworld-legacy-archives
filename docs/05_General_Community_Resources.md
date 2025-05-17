@@ -20,10 +20,5 @@ Hubs for discussion, help, and historical information related to the Homeworld s
     *   **Simonschreibt.de (Simon Schreibt's Blog):** Articles with technical breakdowns of Homeworld's art and shaders (e.g., ["Homeworld 2 Backgrounds"](https://simonschreibt.de/gat/homeworld-2-backgrounds/)).
     *   **Homeworld Shipyards (defunct, check Wayback):** Was a major resource for mods and tools.
 *   **Discord Servers:**
-    *   **Homeworld Universe:** Large, active server for all things Homeworld.
-    *   Various mod-specific Discord servers (e.g., for Complex Mod, Players Patch).
-    *   *Research Needed: Provide invite links if stable and public.*
-*   **Key Community Figures (Research Area - this is ongoing):**
-    *   **Modders/Teams:** Complex Team, Uberjumper (HW@), 9thDG (Splendor), various contributors to Players Patch, etc.
-    *   **Tool Creators:** Authors of CFHodEdit, BigViewer, Missionman, etc.
-    *   **Community Leaders/Site Admins:** Founders of RelicNews, Homeworld Shipyards, etc.
+    *   **Homeworld Universe:** [Invite](https://discord.gg/homeworld). Large, active server for all things Homeworld.
+    *   **Homeworld Classic:** [Invite](https://discord.gg/7f4sNHNBnB). Active group of players from the early 2000's.

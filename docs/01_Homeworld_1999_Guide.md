@@ -90,7 +90,7 @@ This section of The Homeworld Legacy Archives covers the original game, released
     *   **Download:** [ModDB Link for Splendor Mod v1.04](https://www.moddb.com/mods/homeworld-splendor-mod/downloads/homeworld-splendor-mod-v1-04).
     *   **Installation:** Typically extract to HW directory. Requires OpenGL. May need `/safeGL` or `/anisotropic` command lines.
 *   **Map Packs & Custom Maps:**
-    *   **HW1 Map Pack:** [My Map Pack](https://github.com/FlashZ/Homeworld_Map_Collection)
+    *   **HW1 Map Pack:** [My Map Pack](https://github.com/FlashZ/Homeworld_Map_Collection).
 
 
 ### D. Multiplayer & Community Tools
@@ -99,8 +99,8 @@ This section of The Homeworld Legacy Archives covers the original game, released
     *   **GameRanger:** Still active for Homeworld multiplayer.
     *   **LAN Emulators (for Direct IP):** Hamachi, ZeroTier, Radmin VPN.
 *   **Recorded Game Viewers:**
-    *   **Crusty Viewer (by Crusty-OMO):** From initial data [Download Crusty Viewer](files/crustyv.exe). Stats viewer. Win10+: XP SP2 compat. *Likely an old tool from Homeworld Shipyards or similar communities. Original reliable download needed.*
-    *   **SLS Viewer (Recorded Game Viewer by Ultra-SLS):** [Download SLS Viewer](files/sls_viewer.zip)
+    *   **Crusty Viewer (by Crusty-OMO):** From initial data [Download Crusty Viewer](files/crustyv.exe). Stats viewer. Win10+: XP SP2 compat.
+    *   **SLS Viewer (Recorded Game Viewer by Ultra-SLS):** [Download SLS Viewer](files/sls_viewer.zip).
 
 ### E. Browser-Based Homeworld
 

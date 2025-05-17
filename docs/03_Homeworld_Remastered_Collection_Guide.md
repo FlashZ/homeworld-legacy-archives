@@ -14,7 +14,7 @@ This section of The Homeworld Legacy Archives covers the Homeworld Remastered Co
 
 ### B. Running on Modern Systems & Troubleshooting
 
-*   **General Stability:** HWR is designed for modern systems but can still have issues.
+*   **General Stability:** HWRM is designed for modern systems but can still have issues.
 *   **Launcher Crash Fix (Original Launcher Issues):**
     *   **Fix (from initial data):** [GitHub - lone-wolf-akela/HWR_Launcher_CrashFix](https://github.com/lone-wolf-akela/HWR_Launcher_CrashFix/) - For old launcher issues with auth site 404s. The launcher has since been updated by Gearbox.
 *   **Common Issues & Fixes:**
