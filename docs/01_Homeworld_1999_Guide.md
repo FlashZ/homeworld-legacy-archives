@@ -8,7 +8,7 @@ This section of The Homeworld Legacy Archives covers the original game, released
 *   **Official Patches:**
     *   **Version 1.05 (Latest):**
         *   **Download:** [Homeworld v1.05 Patch](files/HOMEW105.rar)
-        *   [Sierra Help Pages](http://sierrahelp.com/Patches-Updates/Patches-Updates-Games/HomeworldSeriesUpdates.html), [Patches-Scrolls](https://www.patches-scrolls.com/homeworld.php), [ModDB Addons Section](https://www.moddb.com/games/homeworld/downloads).
+        *   **Additional Mirrors** [Sierra Help Pages](http://sierrahelp.com/Patches-Updates/Patches-Updates-Games/HomeworldSeriesUpdates.html), [Patches-Scrolls](https://www.patches-scrolls.com/homeworld.php), [ModDB Addons Section](https://www.moddb.com/games/homeworld/downloads).
         *   **Changelog Snippets (v1.05):** Primarily addressed multiplayer exploits, gameplay balance (e.g., salvage corvette mechanics), AI improvements, and some stability fixes.
     *   **Version 1.04, 1.03, etc.:** Available on sites like Patches-Scrolls. Generally, 1.05 is recommended.
 *   **NoCD Solutions:**
@@ -99,7 +99,7 @@ This section of The Homeworld Legacy Archives covers the original game, released
     *   **GameRanger:** Still active for Homeworld multiplayer.
     *   **LAN Emulators (for Direct IP):** Hamachi, ZeroTier, Radmin VPN.
 *   **Recorded Game Viewers:**
-    *   **Crusty Viewer (by Crusty-OMO):** From initial data (`crustyv.exe`). Stats viewer. Win10+: XP SP2 compat. *Likely an old tool from Homeworld Shipyards or similar communities. Original reliable download needed.*
+    *   **Crusty Viewer (by Crusty-OMO):** From initial data [Download Crusty Viewer](files/crustyv.exe). Stats viewer. Win10+: XP SP2 compat. *Likely an old tool from Homeworld Shipyards or similar communities. Original reliable download needed.*
     *   **SLS Viewer (Recorded Game Viewer by Ultra-SLS):** [Download SLS Viewer](files/sls_viewer.zip)
 
 ### E. Browser-Based Homeworld
