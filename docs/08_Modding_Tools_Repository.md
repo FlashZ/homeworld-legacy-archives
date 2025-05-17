@@ -9,10 +9,9 @@ This section of The Homeworld Legacy Archives details essential software and gui
     *   **Bigviewer / UnfBig:** Various versions exist. Used for viewing and extracting from .BIG files.
     *   **HWR Mod Tools (Gearbox):** Includes tools for handling HWR's (and HWR Classic's potentially modified) .BIG files.
 *   **Model Editors/Viewers (`.HOD` files):**
-    *   **CFHodEdit (by Cloaked Dagger Factory / CnlPepper):** Widely used HOD viewer/editor for HW1/Cata/HW2. Multiple versions exist. [Example download for v3.1.5 on ModDB for HW1](https://www.moddb.com/games/homeworld/downloads/cfhoded).
+    *   **CFHodEdit (by Cloaked Dagger Factory / CnlPepper):** Widely used HOD viewer/editor for HW1/Cata/HW2. Multiple versions exist. [Download for v3.1.5 on ModDB for HW1](https://www.moddb.com/games/homeworld/downloads/cfhoded).
     *   **HODOR (by Spooky):** Another popular HOD editor, especially for HW2.
-    *   **Maya/3DS Max Plugins:** Historically, plugins existed for professional 3D software to import/export HOD-compatible formats. (e.g., HOD SMF Importer/Exporter for Maya). *Research needed for availability.*
-    *   **Noesis (with Homeworld plugins):** A versatile model/texture viewer that can support many formats via plugins. [Rich Whitehouse's Noesis Page](http.richwhitehouse.com/index.php?content=inc_projects.php&showproject=91). *Check for HW plugins.*
+    *   **Maya/3DS Max Plugins:** Historically, plugins existed for professional 3D software to import/export HOD-compatible formats. (e.g., HOD SMF Importer/Exporter for Maya).
 *   **Text Editors (for scripts, LUA, data files):**
     *   **Notepad++:** Highly recommended (free, syntax highlighting, powerful search).
     *   **Sublime Text, VS Code:** More advanced options with extensive features.
@@ -28,7 +27,7 @@ This section of The Homeworld Legacy Archives details essential software and gui
     *   **Missionman:** The original map editor. *Original download is elusive; often bundled in old modding packs. The example files from initial data (`mission.mdr`, etc.) are key.*
     *   **Homeworld Map Maker's Guide / Primers:**
         *   Available from [HomeworldAccess.net's Map-Makers Archive download](https://www.homeworldaccess.net/infusions/downloads/downloads.php?cat_id=14&download_id=142).
-    *   **Relic's Background Tool of the Geeks (BTG Editor - from initial data):** `HW1_-_BTG_background_editor.zip`. Used for creating 2D map backgrounds. *Original download needed, possibly from Relic developer ftp archives or old community sites.*
+    *   **Relic's Background Tool of the Geeks (BTG Editor - from initial data):** `HW1_-_BTG_background_editor.zip`. Used for creating 2D map backgrounds.
     *   **Cataclysm Random Map Generator:** Listed on HomeworldAccess.net.
 *   **Scripting & Mission Editing:**
     *   Mostly manual text editing of `.MISS` files. Understanding the scripting functions is key.
