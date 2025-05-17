@@ -25,7 +25,7 @@ Our mission is to create the most comprehensive and accessible resource for play
 
 The archive is structured into several key sections, each as a separate Markdown file:
 
-1.  📄 **[The Homeworld Legacy Archives Homepage](docs/00_The_Homeworld_Legacy_Archives_Homepage.md):**
+1.  📄 **[The Homeworld Legacy Archives Homepage](docs/00_The_Homeworld_Legacy_Archives_Homepage.md)**
 2.  🚀 **[Homeworld (1999) Guide](docs/01_Homeworld_1999_Guide.md):** Comprehensive guide for the original Homeworld.
 3.  👾 **[Homeworld:Cataclysm Guide](docs/02_Homeworld_Cataclysm_Guide.md):** Guide for Homeworld: Cataclysm / Emergence.
 4.  ✨ **[Homeworld:Remastered Collection Guide](docs/03_Homeworld_Remastered_Collection_Guide.md):** Guide for the Homeworld Remastered Collection.
