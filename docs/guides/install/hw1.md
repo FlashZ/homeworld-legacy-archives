@@ -1,8 +1,8 @@
-# I. Homeworld (1999) Guide
+# Homeworld (1999) Guide
 
 This section of The Homeworld Legacy Archives covers the original game, released by Relic Entertainment and Sierra On-Line.
 
-### A. Getting the Game & Initial Setup
+## Getting the Game & Initial Setup
 
 *   **Original Retail Release**.
 *   **Official Patches:**
@@ -19,7 +19,7 @@ This section of The Homeworld Legacy Archives covers the original game, released
     *   **Homeworld Classic (via Homeworld Remastered Collection):** Available on Steam/GOG. This is the original game, adapted by Gearbox for modern OS. It has some differences from the true 1999 v1.05 (see HWRM Guide).
     *   **Demo Version:** Available on [ModDB](https://www.moddb.com/games/homeworld/downloads/homeworld-demo), [GameFront](https://www.gamefront.com/games/homeworld/file/homeworld-demo).
 
-### B. Running on Modern Systems
+## Running on Modern Systems
 
 *   **Compatibility Mode:** Windows NT 4.0 (Service Pack 5) is highly recommended. Apply via executable properties or use the Hardware Acceleration Fix.
 *   **Resolution Settings:**
@@ -70,7 +70,7 @@ This section of The Homeworld Legacy Archives covers the original game, released
         *   `/1024` - run at 1024x768 resolution.
         *   `/1280` - run at 1280x1024 resolution.
         *   `/1600` - run at 1600x1200 resolution.
-        *   `/device` <dev> - select an rGL device by name, eg. sw, fx, d3d.
+        *   `/device` &lt;dev&gt; - select an rGL device by name, eg. sw, fx, d3d.
         *   `/nohint` - disable usage of OpenGL perspective correction hints.
         *   `/DisableAVI` which disables the intro scenes from Sierra and Relic
 
@@ -80,7 +80,7 @@ This section of The Homeworld Legacy Archives covers the original game, released
     *   **MISC OPTIONS**
         *   `/pilotView` - enable pilot view.  Focus on single ship and hit Q to toggle.
 
-### C. Mods & Modding
+## Mods & Modding
 
 *   See [Historical Mod Showcase](09_Historical_Mod_Showcase.md) for detailed spotlights.
 *   See [Modding Tools & Tutorials Repository](08_Modding_Tools_Repository.md) for software.
@@ -93,7 +93,7 @@ This section of The Homeworld Legacy Archives covers the original game, released
     *   **HW1 Map Pack:** [My Map Pack](https://github.com/FlashZ/Homeworld_Map_Collection).
 
 
-### D. Multiplayer & Community Tools
+## Multiplayer & Community Tools
 
 *   **Lobby Services:**
     *   **GameRanger:** Still active for Homeworld multiplayer.
@@ -102,8 +102,8 @@ This section of The Homeworld Legacy Archives covers the original game, released
     *   **Crusty Viewer (by Crusty-OMO):** From initial data [Download Crusty Viewer](files/crustyv.exe). Stats viewer. Win10+: XP SP2 compat.
     *   **SLS Viewer (Recorded Game Viewer by Ultra-SLS):** [Download SLS Viewer](files/sls_viewer.zip).
 
-### E. Browser-Based Homeworld
+## Browser-Based Homeworld
 
-*   **Gardens of Kadesh:** [Project Link](https://gardens-of-kadesh.gitlab.io/gardens-of-kadesh/)
+*   **Gardens of Kadesh:** [Project Link](https://gardens-of-kadesh.gitlab.io/gardens-of-kadesh).
     *   **Description:** A fan-made, open-source, 3D real-time strategy game inspired by Homeworld, playable in the browser.
     *   **Status:** Actively developed (check GitHub for updates). Not a direct port but a new game in the spirit of Homeworld.

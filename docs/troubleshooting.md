@@ -2,7 +2,7 @@
 
 This section of The Homeworld Legacy Archives provides solutions and advice for common problems encountered when trying to run classic Homeworld games on modern systems.
 
-### A. General Troubleshooting Steps (Try These First!)
+## General Troubleshooting Steps (Try These First!)
 
 1.  **Run as Administrator:** Right-click the game's executable (`Homeworld.exe`, `Cataclysm.exe`, `Homeworld2.exe`) and select "Run as administrator." This can solve many permissions-related issues, especially with saving settings or accessing files.
 2.  **Compatibility Mode:**
@@ -17,7 +17,7 @@ This section of The Homeworld Legacy Archives provides solutions and advice for 
 6.  **Check Antivirus/Firewall:** Temporarily disable your antivirus or firewall to see if it's interfering. If so, add an exception for the game's executable and folder.
 7.  **Clean Boot:** Perform a clean boot of Windows to eliminate conflicts from background applications. Search Microsoft Support for "how to perform a clean boot in Windows."
 
-### B. Homeworld 1 & Cataclysm (Original) Specific Issues
+## Homeworld 1 & Cataclysm (Original) Specific Issues
 
 *   **Black Screen on Startup / Game Won't Launch:**
     *   **Cause:** Often resolution/refresh rate incompatibility, rendering issues, or missing runtimes.
@@ -54,7 +54,7 @@ This section of The Homeworld Legacy Archives provides solutions and advice for 
         *   For direct IP: Port forwarding might be needed (UDP/TCP ports, research specific ports for Homeworld).
         *   Firewall exceptions for the game.
 
-### C. Homeworld 2 (Original) Specific Issues
+## Homeworld 2 (Original) Specific Issues
 
 *   **Widescreen Resolution Problems:**
     *   **Solutions:**
@@ -78,7 +78,7 @@ This section of The Homeworld Legacy Archives provides solutions and advice for 
         *   Reinstall the game.
         *   If modded, identify the problematic mod by disabling them one by one.
 
-### D. Homeworld Remastered Collection Issues
+## Homeworld Remastered Collection Issues
 
 *   **Launcher Problems (Original Launcher):**
     *   The official launcher has been updated. If using a very old HWR install, ensure it's updated.

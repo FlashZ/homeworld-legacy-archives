@@ -1,4 +1,4 @@
-# VII. Homeworld Technical Deep Dive
+# Homeworld Technical Deep Dive
 
 This section of The Homeworld Legacy Archives explores file formats, engine specifics, and other technical aspects of the Homeworld series.
 

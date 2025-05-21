@@ -1,8 +1,8 @@
-# VIII. Modding Tools & Tutorials Repository
+# Modding Tools & Tutorials Repository
 
 This section of The Homeworld Legacy Archives details essential software and guides for modding Homeworld games.
 
-### A. General Tools (Multi-Game or Foundational)
+## General Tools (Multi-Game or Foundational)
 
 *   **Archive Editors (`.BIG` files):**
     *   **WinBIG (by MonAmi):** Classic tool for HW1/Cata. [HomeworldAccess Link](https://www.homeworldaccess.net/infusions/downloads/downloads.php?cat_id=8&download_id=85)
@@ -21,7 +21,7 @@ This section of The Homeworld Legacy Archives details essential software and gui
     *   **Paint.NET:** Free, simpler option for basic texture work.
     *   **DDS Plugins:** Essential for handling `.DDS` textures (common in HW2/HWR mods). (e.g., NVIDIA Texture Tools for Photoshop, GIMP DDS Plugin).
 
-### B. Homeworld 1 & Cataclysm Specific Tools
+## Homeworld 1 & Cataclysm Specific Tools
 
 *   **Map Editors & Utilities:**
     *   **Missionman:** The original map editor. *Original download is elusive; often bundled in old modding packs. The example files from initial data (`mission.mdr`, etc.) are key.*
@@ -34,7 +34,7 @@ This section of The Homeworld Legacy Archives details essential software and gui
     *   **Tutorials:** Old forums (RelicNews archives) and map-making primers are the best source.
 *   **Color Change Tool (HW & HWC):** Listed on HomeworldAccess.net. For editing team colors/badge colors.
 
-### C. Homeworld 2 (Original) Specific Tools
+## Homeworld 2 (Original) Specific Tools
 
 *   **Background Creation:**
     *   **HW2BGBuilder (by FeO):** Command-line tool for creating spherical backgrounds from textures. Mentioned on Simonschreibt.de. Often found in HW2 modding tool packs.
@@ -45,7 +45,7 @@ This section of The Homeworld Legacy Archives details essential software and gui
     *   **Object Editor (OE):** A powerful (but complex) tool for editing ship stats, weapon properties, research, etc., directly from game files.
 *   **FX Tool (Particle Effects):** Relic may have released or had internal tools for `.PEO` files. Community often reverse-engineered or used text editors.
 
-### D. Homeworld Remastered Collection Tools
+## Homeworld Remastered Collection Tools
 
 *   **Official Gearbox Mod Tools:**
     *   Distributed via Steam (under Homeworld Remastered Collection -> Tools) or a separate download.
@@ -58,7 +58,7 @@ This section of The Homeworld Legacy Archives details essential software and gui
 *   **Community Tools for HWR:**
     *   Various fan-made utilities for specific tasks (e.g., save game editors, advanced parameter tweaking).
 
-### E. Tutorials & Learning Resources
+## Tutorials & Learning Resources
 
 *   **ModDB:** Many mods include readmes with modding info. Some have dedicated tutorial sections.
 *   **YouTube:** Search for "Homeworld Modding Tutorial," "Homeworld Remastered Modding," etc. Channels like "Corvus" or "Lone Wolf Akela" sometimes cover HWR modding.

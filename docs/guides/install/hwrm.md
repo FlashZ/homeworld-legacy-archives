@@ -1,8 +1,8 @@
-# III. Homeworld Remastered Collection Guide
+# Homeworld Remastered Collection Guide
 
 This section of The Homeworld Legacy Archives covers the Homeworld Remastered Collection (2015) by Gearbox Software.
 
-### A. Getting the Game
+## Getting the Game
 
 *   **Platforms:** [Steam](https://store.steampowered.com/app/244160/Homeworld_Remastered_Collection/), [GOG.com](https://www.gog.com/game/homeworld_remastered_collection).
 *   **Contents:**
@@ -12,7 +12,7 @@ This section of The Homeworld Legacy Archives covers the Homeworld Remastered Co
     *   Homeworld 2 Classic (Original HW2 v1.1, adapted for modern OS)
     *   Multiplayer Beta access (merged HW1 & HW2 races).
 
-### B. Running on Modern Systems & Troubleshooting
+## Running on Modern Systems & Troubleshooting
 
 *   **General Stability:** HWRM is designed for modern systems but can still have issues.
 *   **Launcher Crash Fix (Original Launcher Issues):**
@@ -26,7 +26,7 @@ This section of The Homeworld Legacy Archives covers the Homeworld Remastered Co
     *   **HW2 Classic:** Similar to HW1 Classic, adapted for modern OS.
     *   **Mod Compatibility with Classics:** Generally better for HW1 Classic mods than HWR. However, mods heavily reliant on specific engine quirks or file formats of the original 1999/2003 releases might still have issues.
 
-### C. Mods & Modding (HWR specific)
+## Mods & Modding (HWR specific)
 
 *   **Platform:** Primarily [Steam Workshop](https://steamcommunity.com/app/244160/workshop/). GOG users can use tools to download Steam Workshop mods.
 *   **Notable HWR Mods (See [ModDB HWR Mods](https://www.moddb.com/games/homeworld-remastered-collection/mods) and Steam Workshop):**

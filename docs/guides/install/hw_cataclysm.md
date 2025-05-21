@@ -1,8 +1,8 @@
-# II. Homeworld: Cataclysm / Emergence Guide
+# Homeworld: Cataclysm / Emergence Guide
 
 This section of The Homeworld Legacy Archives covers Homeworld: Cataclysm (2000) by Barking Dog Studios, and its GOG.com re-release as Homeworld: Emergence.
 
-### A. Getting the Game & Initial Setup
+## Getting the Game & Initial Setup
 
 *   **Original Retail Release (Cataclysm):** CD-ROM.
 *   **Official Patches:**
@@ -16,7 +16,7 @@ This section of The Homeworld Legacy Archives covers Homeworld: Cataclysm (2000)
     *   **Link:** [GOG.com Homeworld: Emergence](https://www.gog.com/game/homeworld_emergence)
     *   **Highly Recommended:** Patched, DRM-free, configured for modern OS. Identical content to original Cataclysm.
 
-### B. Running on Modern Systems
+## Running on Modern Systems
 
 *   **GOG Version:** Generally works out-of-the-box.
 *   **Original/Old Versions:**
@@ -29,7 +29,7 @@ This section of The Homeworld Legacy Archives covers Homeworld: Cataclysm (2000)
         *   Path: `HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Sierra On-Line\Cataclysm`
         *   Values: `screenWidth`, `screenHeight`, `screenDepth` (use hex).
 
-### C. Mods & Modding
+## Mods & Modding
 
 *   Cataclysm had a smaller but dedicated modding scene compared to HW1.
 *   **Map Packs (from initial data):**
@@ -38,7 +38,7 @@ This section of The Homeworld Legacy Archives covers Homeworld: Cataclysm (2000)
     * *Needs filling out*
 *   **Modding Tools:** Many HW1 tools were adaptable. See the [Modding Tools & Tutorials Repository](08_Modding_Tools_Repository.md). HomeworldAccess.net had a "Map-Makers Archive" including HWC primers.
 
-### D. Multiplayer & Strategy
+## Multiplayer & Strategy
 
 *   **Cataclysm Bible / Strategy Guides:**
     *   **Original Chat Link:** [Kiith Somtaaw - Advanced Tactical Manuals](https://members.tripod.com/adm_lan_somtaaw/kiithsomtaaw/id7.html) (Tripod site, likely needs Wayback Machine if live link is dead: [Archive Link Example](https://web.archive.org/web/20050205041420/http://members.tripod.com/adm_lan_somtaaw/kiithsomtaaw/id7.html)).

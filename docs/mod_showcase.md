@@ -2,7 +2,7 @@
 
 This section of The Homeworld Legacy Archives highlights some of the most significant and influential mods from the classic era of Homeworld, Homeworld: Cataclysm, and Homeworld 2 (original). This is not exhaustive but aims to showcase the community's creativity.
 
-### A. Homeworld (1999) Mods
+## Homeworld (1999) Mods
 
 *   **Splendor Mod (v1.04):**
     *   **Author(s):** Splendor Team / 9thDG
@@ -29,7 +29,7 @@ This section of The Homeworld Legacy Archives highlights some of the most signif
     *   **Impact:** Highly influential visual and gameplay enhancement mod. Set standards for ship quality.
     *   **Download:** Older versions might be hard to find. Look for "HW@" or "Homeworld Advanced" on ModDB archives.
 
-### B. Homeworld: Cataclysm Mods
+## Homeworld: Cataclysm Mods
 
 *(Cataclysm's mod scene was smaller, more focused on unit additions or small gameplay tweaks.)*
 
@@ -38,7 +38,7 @@ This section of The Homeworld Legacy Archives highlights some of the most signif
     *   Check ModDB's Cataclysm section and old forum archives.
   
   
-### C. Homeworld 2 (Original) Mods (Continued)
+## Homeworld 2 (Original) Mods (Continued)
 
 *   **Complex Mod (Original HW2 Versions, e.g., v8.x, v9.x):**
     *   **Author(s):** Complex Team (led by Beghins, with many contributors)

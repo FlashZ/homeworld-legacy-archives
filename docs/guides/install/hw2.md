@@ -1,8 +1,8 @@
-# IV. Homeworld 2 (Classic) Guide
+# Homeworld 2 (Classic) Guide
 
 This section of The Homeworld Legacy Archives covers the original Homeworld 2 (2003) by Relic Entertainment.
 
-### A. Getting the Game & Initial Setup
+## Getting the Game & Initial Setup
 
 *   **Original Retail Release:** CD-ROM or DVD-ROM.
 *   **Patches:**
@@ -13,11 +13,11 @@ This section of The Homeworld Legacy Archives covers the original Homeworld 2 (2
 *   **Digital Releases:**
     *   **Homeworld 2 Classic (via Homeworld Remastered Collection):** Available on Steam/GOG. Adapted by Gearbox for modern OS.
 
-### B. Running on Modern Systems (Original HW2 Standalone)
+## Running on Modern Systems (Original HW2 Standalone)
 
 *   **Compatibility Mode:** Windows XP SP3 often works best.
 
-### C. Mods & Modding (Original HW2)
+## Mods & Modding (Original HW2)
 
 *   HW2 had an active modding scene.
 *   **Key Historical Mods (See [ModDB HW2 Mods](https://www.moddb.com/games/homeworld-2/mods)):**

@@ -1,4 +1,4 @@
-# V. General Community Resources
+# General Community Resources
 
 Hubs for discussion, help, and historical information related to the Homeworld series.
 
